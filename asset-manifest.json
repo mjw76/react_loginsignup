@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mjw76/react_loginsignup.git/static/css/main.6fb69a3c.css",
+    "main.js": "/mjw76/react_loginsignup.git/static/js/main.cdb0bf45.js",
+    "static/js/787.e4aa82eb.chunk.js": "/mjw76/react_loginsignup.git/static/js/787.e4aa82eb.chunk.js",
+    "index.html": "/mjw76/react_loginsignup.git/index.html",
+    "main.6fb69a3c.css.map": "/mjw76/react_loginsignup.git/static/css/main.6fb69a3c.css.map",
+    "main.cdb0bf45.js.map": "/mjw76/react_loginsignup.git/static/js/main.cdb0bf45.js.map",
+    "787.e4aa82eb.chunk.js.map": "/mjw76/react_loginsignup.git/static/js/787.e4aa82eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fb69a3c.css",
+    "static/js/main.cdb0bf45.js"
+  ]
+}
